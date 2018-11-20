@@ -1,0 +1,4 @@
+numpy==1.14.5
+xgboost==0.80
+graphviz==2.40.1
+matplotlib==2.2.3
